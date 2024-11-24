@@ -7,3 +7,5 @@ Known ligand & PROTAC relationship [Database]
 
 Preclinical drug efficacy evaluation
 
+ref:
+- https://github.com/itWangCode/AI-Drug-Discovery-Design
